@@ -1,6 +1,6 @@
 # TechnicalProjectManagement
 
-The project provides an introduction to creating and leading effective organizations. 
+The project provides an introduction to technical project management 
 
 Confidential information is not displayed. 
 
