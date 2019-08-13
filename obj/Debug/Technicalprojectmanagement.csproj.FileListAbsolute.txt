@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\bin\Debug\Technicalprojectmanagement.exe.config
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\bin\Debug\Technicalprojectmanagement.exe
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\bin\Debug\Technicalprojectmanagement.pdb
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\MainWindow.g.cs
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\App.g.cs
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement_MarkupCompile.cache
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement_MarkupCompile.lref
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.g.resources
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.Properties.Resources.resources
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.exe
+C:\Users\ADG\source\repos\Technicalprojectmanagement\Technicalprojectmanagement\obj\Debug\Technicalprojectmanagement.pdb
