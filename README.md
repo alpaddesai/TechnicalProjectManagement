@@ -6,6 +6,6 @@ Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/TechnicalProjectManagement/releases for details. 
 
-Images are custom. Copyright protection is in process.
+Images are custom. 
 
 ![image](TPM.png)
