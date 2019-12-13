@@ -9,3 +9,5 @@ Please download the executable in https://github.com/alpaddesai/TechnicalProject
 Images are custom. 
 
 ![image](TPM.png)
+
+![image](CAPM.jpg)
