@@ -1,4 +1,4 @@
-# TechnicalProjectManagement
+# Technical Project Management
 
 The project provides an introduction to technical project management 
 
