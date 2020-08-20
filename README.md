@@ -6,7 +6,7 @@ Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/TechnicalProjectManagement/releases for details. 
 
-Further details reference : https://github.com/alpaddesai/IntroductiontoSupplyChainManagement
+Advanced knowledge reference : https://github.com/alpaddesai/AgileMethodology and https://github.com/alpaddesai/IntroductiontoSupplyChainManagement
 
 Images are custom. 
 
