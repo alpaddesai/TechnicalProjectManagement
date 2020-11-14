@@ -8,6 +8,8 @@ Please download the executable in https://github.com/alpaddesai/TechnicalProject
 
 Advanced knowledge reference : https://github.com/alpaddesai/AgileMethodology and https://github.com/alpaddesai/IntroductiontoSupplyChainManagement
 
+Standard Industry Knowledge
+
 Images are custom. 
 
 ![image](TPM.png)
