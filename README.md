@@ -15,3 +15,5 @@ Images are custom.
 ![image](TPM.png)
 
 ![image](CAPM.jpg)
+
+![image](USCopyrightCertificateofRegistration.png)
