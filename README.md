@@ -16,8 +16,8 @@ Images are custom.
 
 ![image](CAPM.jpg)
 
-![image](image1.jpg)
-
 ![image](USCopyrightCertificateofRegistration.png)
+
+![image](image1.jpg)
 
 Additional details reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
