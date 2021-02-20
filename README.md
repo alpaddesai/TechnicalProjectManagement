@@ -18,6 +18,6 @@ Images are custom.
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-![image](image1.jpg)
+![image](image.jpg)
 
 Additional details reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
