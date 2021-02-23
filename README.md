@@ -20,4 +20,4 @@ Images are custom.
 
 ![image](image.jpg)
 
-Additional details reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
+Additional details reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/PowerandInfluentialSkills
