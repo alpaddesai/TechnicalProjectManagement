@@ -16,9 +16,9 @@ Images are custom.
 
 ![image](CAPM.jpg)
 
+## Interest
 ![image](image.jpg)
 
-## Interest
 ![image](image2.png)
 
 Additional details reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/PowerandInfluentialSkills
